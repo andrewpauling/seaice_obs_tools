@@ -2,3 +2,4 @@
 *.nc
 *~
 .ipynb_checkpoints
+notebooks/sirg_plots.ipynb
